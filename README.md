@@ -1,5 +1,5 @@
-# objects
-![alt text](/Screenshot%202025-02-24%20090249.png)
+![Screenshot 2025-02-24 090249](https://github.com/user-attachments/assets/4f17aaca-d858-4c32-8be4-46875bd5bd8c)
+
 - Объектҳо дар JavaScript калиди тарзи коркарди забон мебошанд. Онҳо маҷмӯи ҷуфтҳои калид-арзиш мебошанд, ки дар он калидҳо сатрҳо (ё рамзҳо) ва арзишҳо метавонанд аз ҳама гуна навъ бошанд. Ин ҷо як мисоли оддӣ аст, ки чӣ тавр сохтани объект ва истифодаи онро нишон медиҳад:
 
 ```javascript
@@ -14,7 +14,8 @@ console.log("hello,my name is "+person.name+" "+person.age+" "+person.city;
 
 + Объектҳо дар JavaScript як навъи маълумоти ғайриасосӣ мебошанд, ки ба шумо имкон медиҳанд, ки миқдори зиёди маҷмӯаҳои маълумотро нигоҳ доред. Объектҳо дар JS бо ҷуфтҳои калид-арзиш муаррифӣ мешаванд. Калид номи хосият ё усул мебошад, ва арзиш метавонад ҳар як арзиш бошад, ки шомили як объекти дигар ҳам метавонад бошад. Барои эҷоди объект дар JavaScript, шумо метавонед қавсҳои {} -ро истифода баред."
 + 
-![alt text](image-1.png)
+![Screenshot 2025-02-22 014551](https://github.com/user-attachments/assets/499ec210-a489-459e-b323-892a51be58d0)
+
 onject.key;
 
 Дар JavaScript, объекти key барои дастрасӣ ва коркарди қиматҳои объекти истифода мешавад. Бо ин роҳ, шумо метавонед қиматҳои муайянро дар объект интихоб кунед ва тағйир диҳед. Ин
@@ -33,7 +34,8 @@ const values = Object.values(person);
 
 console.log(values); 
 
-```
+![Screenshot 2025-02-22 014551](https://github.com/user-attachments/assets/ba65e309-71b6-40e9-b12f-6653ccc98ade)
+
 
 destructuring
 
@@ -73,3 +75,5 @@ greetBob();
 
 
 ```
+
+![Screenshot 2025-02-26 021825](https://github.com/user-attachments/assets/a927701f-5ad1-4ea9-9eab-48b98ab889b3)
